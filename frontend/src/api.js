@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://ekart-3528.onrender.com";
 
 export const registerUser = async (user) => {
     try {
